@@ -10,12 +10,12 @@
   },
   "devDependencies": {
     "@types/three": "^0.165.0",
-    "dat.gui": "^0.7.9",
     "three": "^0.165.0",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "@types/dat.gui": "^0.7.13"
+    "@types/dat.gui": "^0.7.13",
+    "lil-gui": "^0.19.2"
   }
 }
